@@ -35,8 +35,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - *2024.02*: &nbsp;🎉🎉 One paper ([APOLLO](https://arxiv.org/abs/2212.07249)) is accepted by COLING 2024! 
 - *2024.02*: &nbsp;🎉🎉 One paper ([Think-on-Graph](https://arxiv.org/abs/2307.07697)) is accepted by ICLR 2024! 
 
-# 📝 Publications 
-- Total Citations: (<a href='https://scholar.google.com/citations?user=JCUiEM4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+# 📝 Publications <a href='https://scholar.google.com/citations?user=JCUiEM4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - ``ICLR 2024`` [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2307.07697.pdf), **Jiashuo Sun**, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo.
 
