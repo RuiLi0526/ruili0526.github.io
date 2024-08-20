@@ -21,8 +21,6 @@ I am currently working at **DAMO Academy, Alibaba Group** as a research scientis
 
 Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 🤔 Currently, my research interests are primarily focused on Large Language Models (LLMs), covering the following topics:
 - **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems
 - **LLM-Agent** that creates interfaces to help LLMs and humans communicate, interact, and exchange knowledge. I believe all these questions are fundamental for bridging the gap between LLMs and human intelligence, and their solutions will play significant roles in implementing a knowledge-centric AI.
@@ -37,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.02*: &nbsp;🎉🎉 One paper ([APOLLO](https://arxiv.org/abs/2212.07249)) is accepted by COLING 2024! 
 - *2024.02*: &nbsp;🎉🎉 One paper ([Think-on-Graph](https://arxiv.org/abs/2307.07697)) is accepted by ICLR 2024! 
 
-# 📝 Publications (Total <a href='https://scholar.google.com/citations?user=JCUiEM4AAAAJ'>google scholar citations)
+# 📝 Publications (<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 - ``ICLR 2024`` [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2307.07697.pdf), **Jiashuo Sun**, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo.
 
