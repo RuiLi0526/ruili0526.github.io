@@ -24,7 +24,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤔 Currently, my research interests are primarily focused on Large Language Models (LLMs), covering the following topics:
 - **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems
 - **LLM-Agent** that creates interfaces to help LLMs and humans communicate, interact, and exchange knowledge. I believe all these questions are fundamental for bridging the gap between LLMs and human intelligence, and their solutions will play significant roles in implementing a knowledge-centric AI.
-- **Large-Vision Language Models (LVLMs)** that enables LVLMs to better understand images, comprehend user intent, and mitigate hallucination issues in LVLMs.
+- **Large-Vision Language Models (LVLMs)** that enables LVLMs to better understand images, comprehend user intent, and mitigate hallucination issues.
 
 
 🤝 **Looking for a Fall 2025 Ph.D. position at 🇺🇸. If you are interested in working with me, please drop me an email.**
@@ -83,7 +83,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 # 🎨 Miscellaneous
 
-- I am an **amateur singer** 🎤 and have won the **Top Ten Singer Award **at Xiamen University twice (you can check out my competition videos at [this](https://www.bilibili.com/video/BV1Hs421T7JD/?spm_id_from=333.999.0.0)). I also enjoy playing instruments, such as the piano 🎹 and guitar 🎸. When I'm not coding, I love listening to music and making music (R&B is my favourite).
-- I am also an **amateur esports** player 🖥️, and I rank in the top 2.4% on the Chinese server in the game League of Legends, which puts me among approximately **ten million** players.
+- I am an **amateur singer** 🎤 and have won the **Top Ten Singer Award** at Xiamen University twice (you can check out my competition videos at [this](https://www.bilibili.com/video/BV1Hs421T7JD/?spm_id_from=333.999.0.0)). I also enjoy playing instruments, such as the piano 🎹 and guitar 🎸. When I'm not coding, I love listening to music and making music (R&B is my favourite).
+- I am also an **amateur esports** player 🖥️, and I rank in the top 2.4% (among **ten million** players) on the Chinese server in the game League of Legends.
 - If you have similar interests or would like to connect with me, feel free to email me anytime!
 
