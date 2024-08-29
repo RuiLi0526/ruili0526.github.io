@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working at **DAMO Academy, Alibaba Group** as a research scientist.
+I am currently working at **DAMO Academy, Alibaba Group** as a research engineer.
 
 Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively.
 
@@ -30,6 +30,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for a Fall 2025 Ph.D. position at 🇺🇸. If you are interested in working with me, please drop me an email.**
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 Starting a new position as Research Engineer at DAMO Academy, Alibaba Group!
 - *2024.03*: &nbsp;🎉🎉 One paper (TableLLM) is accepted by IJCNN 2024!
 - *2024.03*: &nbsp;🎉🎉 Two papers ([Iter-CoT](https://arxiv.org/abs/2304.11657), [Guide-Align](https://arxiv.org/pdf/2403.11838.pdf)) are accepted by NAACL 2024!
 - *2024.02*: &nbsp;🎉🎉 One paper ([APOLLO](https://arxiv.org/abs/2212.07249)) is accepted by COLING 2024! 
@@ -47,11 +48,11 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
 
-- ``Submission to AI-Journal`` Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation, Xiaoye Qu<sup>*</sup>, Qiyuan Chen<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei wei, Daizong Liu, Yu Cheng
-
 - ``Submission to EMNLP 2024`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://github.com/GasolSun36/MVP), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
 - ``Submission to EMNLP 2024`` SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information, **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
+
+- ``Submission to EMNLP 2024`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
 - ``Submission to Neurips 2024`` ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models, Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
 
@@ -75,7 +76,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 
 # 💻 Internships and Work Experiences
-- *2024.08 - Present*, DAMO Academy, Alibaba Group, Research Scientist
+- *2024.08 - Present*, DAMO Academy, Alibaba Group, Research Engineer
 - *2024.01 - 2024.07*, Shanghai AI Laboratory General Technology Research, Research Intern
 - *2023.04 - 2023.12*, International Digital Economy Academy Fin-AI Group, Research Intern
 - *2022.09 - 2023.04*, Microsoft Research Asia NLC Group, Research Assitant
