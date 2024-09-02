@@ -48,13 +48,13 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
 
-- ``Submission to EMNLP 2024`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://github.com/GasolSun36/MVP), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
+- ``Submission to EMNLP 2024`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
 - ``Submission to EMNLP 2024`` SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information, **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
 
 - ``Submission to EMNLP 2024`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
-- ``Submission to Neurips 2024`` ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models, Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
+- ``Submission to Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
 
 
 # 👨‍💻 Open-Source Projects
