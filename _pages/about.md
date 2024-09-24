@@ -30,7 +30,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for a Fall 2025 Ph.D. position at 🇺🇸. If you are interested in working with me, please drop me an email.**
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper ([SURf]([https://arxiv.org/abs/2212.07249](https://github.com/GasolSun36/SURf))) is accepted by EMNLP 2024! 
+- *2024.09*: &nbsp;🎉🎉 One paper ([SURf](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at)) is accepted by EMNLP 2024! 
 - *2024.08*: &nbsp;🎉🎉 Starting a new position as Research Engineer at DAMO Academy, Alibaba Group!
 - *2024.03*: &nbsp;🎉🎉 One paper (TableLLM) is accepted by IJCNN 2024!
 - *2024.03*: &nbsp;🎉🎉 Two papers ([Iter-CoT](https://arxiv.org/abs/2304.11657), [Guide-Align](https://arxiv.org/pdf/2403.11838.pdf)) are accepted by NAACL 2024!
@@ -45,11 +45,11 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``NAACL 2024 Findings`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
 
-- ``NAACL 2024`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://arxiv.org/abs/2403.11838), Yi Luo, Zhenghao Lin, Yuhao Zhang, **Jiashuo Sun**, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
-
 - ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
 
-- ``EMNLP 2024`` SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information, **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
+- ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at), **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
+
+- ``NAACL 2024`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://arxiv.org/abs/2403.11838), Yi Luo, Zhenghao Lin, Yuhao Zhang, **Jiashuo Sun**, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
 
 - ``Submission to COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
