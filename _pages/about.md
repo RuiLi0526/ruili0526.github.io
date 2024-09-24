@@ -30,6 +30,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for a Fall 2025 Ph.D. position at 🇺🇸. If you are interested in working with me, please drop me an email.**
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper ([SURf]([https://arxiv.org/abs/2212.07249](https://github.com/GasolSun36/SURf))) is accepted by EMNLP 2024! 
 - *2024.08*: &nbsp;🎉🎉 Starting a new position as Research Engineer at DAMO Academy, Alibaba Group!
 - *2024.03*: &nbsp;🎉🎉 One paper (TableLLM) is accepted by IJCNN 2024!
 - *2024.03*: &nbsp;🎉🎉 Two papers ([Iter-CoT](https://arxiv.org/abs/2304.11657), [Guide-Align](https://arxiv.org/pdf/2403.11838.pdf)) are accepted by NAACL 2024!
@@ -48,11 +49,11 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
 
-- ``Submission to EMNLP 2024`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
+- ``EMNLP 2024`` SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information, **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
 
-- ``Submission to EMNLP 2024`` SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information, **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
+- ``Submission to COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
-- ``Submission to EMNLP 2024`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
+- ``Submission to Journals`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
 - ``Submission to Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
 
