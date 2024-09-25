@@ -59,6 +59,8 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 
 # 👨‍💻 Open-Source Projects
+- [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
+
 - [PiXiu: Instruct-tuning Large Language Models with Chinese Financial Knowledge Graph](https://github.com/GasolSun36/pixiu/blob/main/README.md)
 
 
