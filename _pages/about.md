@@ -51,12 +51,13 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``NAACL 2024`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://arxiv.org/abs/2403.11838), Yi Luo, Zhenghao Lin, Yuhao Zhang, **Jiashuo Sun**, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
 
+- ``NeurIPS 2024 Track Datasets and Benchmarks`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
+
 - ``Submission to COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
 - ``Submission to Journals`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
-- ``Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
-
+- ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
 
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
