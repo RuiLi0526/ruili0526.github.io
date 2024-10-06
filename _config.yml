@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiashuo Sun"
-description              : "This is academic page of Jiashuo Sun"
-repository               : "GasolSun36/gasolsun36.github.io"
+title                    : "Rui Li"
+description              : "This is academic page of Rui Li"
+repository               : "RuiLi0526/ruili0526.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiashuo Sun"
+  name             : "Rui Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "DAMO Academy, Alibaba Group"
-  location         : "Hangzhou, China"
+  bio              : "Peking University Shenzhen Graduate School"
+  location         : "ShenZhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ&hl=zh-CN"
-  email            : "gasolsun36@gmail.com"
+  email            : "eugenice@163.com"
   researchgate     :  https://www.semanticscholar.org/author/Jiashuo-Sun/2202454665 # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : GasolSun36 # e.g., "github username"
+  github           : RuiLi0526 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : jiashuo-sun-b67857190 # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/336/2528.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         :  # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
