@@ -27,9 +27,9 @@ author:
   location         : "ShenZhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ&hl=zh-CN"
+  googlescholar    : # 
   email            : "eugenice@163.com"
-  researchgate     :  https://www.semanticscholar.org/author/Jiashuo-Sun/2202454665 # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
